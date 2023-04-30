@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+.texB{
+	color: white;
+}
+.esp{
+	margin-top: 80px;
+}
+.perfil{
+	border-radius: 50%;
+	margin-top: -125px;
+}
